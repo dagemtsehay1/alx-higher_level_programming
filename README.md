@@ -1,4 +1,4 @@
-## Alx - higher level programming
+# Alx - higher level programming
 
 This repository contains programs written for the Alx - higher level programming.
 
