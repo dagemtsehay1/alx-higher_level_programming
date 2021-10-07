@@ -8,6 +8,10 @@
   - [0x03-python-data_structures](https://github.com/dagemtsehay1/alx-higher_level_programming/tree/main/0x03-python-data_structures)
   - [0x04-python-more_data_structures](https://github.com/dagemtsehay1/alx-higher_level_programming/tree/main/0x04-python-more_data_structures)
   - [0x05-python-exceptions](https://github.com/dagemtsehay1/alx-higher_level_programming/tree/main/0x05-python-exceptions)
+  - [0x06-python-classes](https://github.com/dagemtsehay1/alx-higher_level_programming/tree/main/0x06-python-classes)
+  - [0x07-python-test_driven_development](https://github.com/dagemtsehay1/alx-higher_level_programming/tree/main/0x07-python-test_driven_development)
+  - [0x08-python-more_classes](https://github.com/dagemtsehay1/alx-higher_level_programming/tree/main/0x08-python-more_classes)
+  - [0x09-python-everything_is_object](https://github.com/dagemtsehay1/alx-higher_level_programming/tree/main/0x09-python-everything_is_object)
 
 
 
