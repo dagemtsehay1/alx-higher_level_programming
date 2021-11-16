@@ -1,1 +1,2 @@
+-- List tabels
 SHOW TABLES;
